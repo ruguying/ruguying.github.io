@@ -4,7 +4,7 @@
 公众号【入骨影评】，专注于热播电视剧、电影的深度赏析，同时授权转载微微一诺原著同人小说《浮生若梦》，投稿请直接联系我VX: dingdingxxyyzz
 
 #### 历史
-本公众号创建于2017年6月28日,目前在各大平台均为原创加V优质作者，其中知乎粉丝2.2万，百家号粉丝1.3万，头条号粉丝5000+，大鱼号粉丝1.5万，企鹅号粉丝1.7万
+本公众号创建于2017年6月28日,目前在各大平台均为原创加V优质作者，其中微博粉丝2.2万，知乎粉丝2.1万，百家号粉丝1.3万，头条号粉丝5000+，大鱼号粉丝1.8万，企鹅号粉丝2000+
 
 
 #### 各大主流自媒体平台的主页
@@ -68,4 +68,3 @@
 6.  [梅洛哥](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5OTEzNjY4OQ==&action=getalbum&album_id=1727304447229214720)
 7.  [探火](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5OTEzNjY4OQ==&action=getalbum&album_id=1743221142389047297)
 8.  [石槑](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5OTEzNjY4OQ==&action=getalbum&album_id=1717148730014875650)
-9.  ![扫码关注](https://images.gitee.com/uploads/images/2021/1017/215448_678c664c_385968.jpeg "00微信号请关注_豆瓣.jpg")
