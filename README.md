@@ -1,10 +1,10 @@
 # 入骨影评
 
 #### 介绍
-公众号【入骨影评】，专注于热播电视剧、电影的深度赏析，尤其喜爱古装电视剧，合作请直接联系我VX: dingdingxxyyzz
+公众号【入骨影评】，专注于热播电视剧、电影的深度赏析，尤其喜爱古装电视剧，合作请直接联系我私人微信: dingdingxxyyzz
 
 #### 历史
-本公众号创建于2017年6月28日,目前在各大平台均为原创加V优质创作者，其中百家号粉丝4.6万，微博粉丝2.6万，知乎粉丝2.1万，大鱼号粉丝1.8万头条号粉丝6000+
+本公众号创建于2017年6月28日,目前在各大平台均为原创加V优质创作者，其中百家号粉丝4.6万，微博粉丝2.6万，知乎粉丝2.1万，大鱼号粉丝1.8万，头条号粉丝6000+
 
 
 #### 各大主流自媒体平台的主页
@@ -18,7 +18,7 @@
 7.  [企鹅号](https://media.om.qq.com/author?id=Mi98P-Y7er_8IQCLSvNv3QCw0)
 8.  [快传号](https://www.360kuai.com/mob/zmt?id=179525112&uid=c6ccd0582895e1fa357d04e2299305b7&sign=llq#text)
 9.  [网易号](https://www.163.com/dy/media/T1499052557801.html)
-10. [一点号:仅手机端可访问](https://www.yidianzixun.com/channel/m481787)
+10. [一点号](https://www.yidianzixun.com/channel/m481787)
 11. [快看点](https://www.yuncheapp.cn/html/pearl/share/uCenter/index.html?id=5xwa4qfssju8jei&sstoken=Ydf77EoHFwJXMgr_BA8LqA)
 12. [大风号](https://ishare.ifeng.com/mediaShare/home/1367439/media?aman=aU036u848kb24Ne8fD822&gud=103593j849)
 13. [凯迪号](https://www.9kd.com/note/3824571)
