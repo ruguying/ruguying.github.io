@@ -1,19 +1,10 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZN4ZHDY2GG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ZN4ZHDY2GG');
-</script>
 # 入骨影评
 
 #### 介绍
 公众号【入骨影评】，热播电视剧电影的深度赏析，古装言情剧骨灰级达人，恋爱心理分析师，公主抱资深研究专家，关注我一起追剧、自我成长、收获惊天地泣鬼神的绝美爱情吧！合作请直接联系我私人微信: dingdingxxyyzz
 
 #### 历史
-本公众号创建于2017年6月28日,目前在各大平台均为原创加V优质创作者，其中百家号粉丝4.6万，微博粉丝2.6万，知乎粉丝2.1万，大鱼号粉丝1.8万，头条号粉丝6000+
+本公众号创建于2017年6月28日,目前在各大平台均为原创加V优质创作者，其中百家号粉丝10万，微博粉丝2.6万，知乎粉丝2.1万，大鱼号粉丝1.8万，头条号粉丝6000+
 
 
 #### 各大主流自媒体平台的主页
