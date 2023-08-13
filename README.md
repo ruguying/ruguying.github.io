@@ -36,7 +36,7 @@
 25. [#视频号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5OTEzNjY4OQ==&action=getalbum&album_id=1557604433729994753)
 26. [多多视频](https://mobile.yangkeduo.com/fyxmkief.html?page_key=1&_pdd_fs=1&target_uid=3816966693)
 27. [网易云音乐](https://music.163.com/#/user/home?id=717909)
-28. [猫眼电影](https://m.maoyan.com/apollo/profile/545668?userCode=ZKWq87LJNMv9xvnB2R2zByAomkVp&from=canary)
+28. [Youtube](https://www.youtube.com/channel/UCCROs8lXbFvy4sSnOU3LxrQ)
 29. [喜马拉雅](https://www.ximalaya.com/zhubo/1048779)
 30. [itunes播客](http://rss.lizhi.fm/rss/158709672.xml)
 
